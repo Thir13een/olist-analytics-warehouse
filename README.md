@@ -12,6 +12,12 @@
 
 **[View the Looker Studio Dashboard →](https://lookerstudio.google.com/reporting/6c0e6662-c340-4099-8f16-236ab5cee1fb)**
 
+### Sales Overview
+![Sales Overview](DASHBOARD/sales-overview.png)
+
+### Geographic Performance
+![Geographic Performance](DASHBOARD/geographic-performance.png)
+
 ---
 
 ## 📌 Project Overview
