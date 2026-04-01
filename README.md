@@ -143,12 +143,36 @@ Reporting-ready aggregates for each dashboard page.
 
 ## 🔑 Key Insights from the Data
 
-- 📦 **99,441** unique customers across Brazil
-- 🔁 Only **6.4%** repeat customer rate — massive retention opportunity
-- 💰 Average customer lifetime value of **R$161**
-- 🚚 Average delivery time of **12.6 days** — approval (0.4d) → shipping (3.4d) → delivery (12.6d)
-- 🗺️ São Paulo dominates revenue — top state by a significant margin
-- ⭐ Average review score of ~**4.1 / 5**
+### 📈 Sales & Growth
+- **99.4K orders** totalling **R$16M** in payment value — average of ~R$161 per order
+- Strong growth trajectory from late 2016 through mid-2018 driven by both **more orders and higher spend**
+- **Peak revenue and volume in Jun–Jul 2018** — highest performing months in the dataset
+- Seasonal patterns: **Jan–Feb and Jul are peak months**, Aug–Sep consistently slowest
+- Average payment value peaks in **Feb–Mar (~R$170)** — likely Valentine's Day effect
+- Note: Sep 2018 data cliff is a **dataset cutoff**, not a business drop — orders placed late 2018 were still in transit when the snapshot was taken
+
+### 🚚 Delivery Performance
+- **97% delivery completion rate** — only 3% of orders failed to deliver
+- **92% on-time delivery rate** — 1 in 12 delivered orders arrived late
+- Average delivery pipeline: **0.4 days approval → 3.4 days to ship → 12.6 days to deliver**
+- Biggest time sink is the **last-mile delivery at 12.6 days** — Brazil's vast geography is the key constraint
+- **Northeast states severely underperform**: AL (Alagoas) at ~25% late rate, MA (Maranhão) at ~20%
+- Southeast and South states deliver on time — the problem is concentrated in states far from São Paulo distribution centers
+
+### 🗺️ Geographic Distribution
+- Olist reached **all 27 Brazilian states** and **4,000+ cities** — true nationwide coverage
+- **São Paulo dominates** revenue and order volume — bubble cluster on the map is ~3x denser than any other region
+- **Top 10 cities by orders** are exclusively from Southeast and South Brazil — São Paulo, Rio de Janeiro, Belo Horizonte, Brasília, Curitiba, Campinas, Porto Alegre, Guarulhos, Salvador, São Bernardo
+- **Northeast Brazil is an underserved market** — low order volume combined with high late delivery rates suggests both a demand opportunity and a logistics problem to solve
+
+### 👥 Customer Behaviour
+- Only **6.4% repeat customer rate** — 94% of customers bought once and never returned
+- Average customer lifetime value of **R$161** — close to single-order value, confirming the low repeat rate
+- Massive retention opportunity: improving repeat purchase rate even to 15% would nearly double LTV
+
+### ⭐ Quality
+- Review scores stabilise at **~4.1 / 5** after early 2017 — consistent quality maintained through growth
+- Early 2016 scores are volatile due to very low order volumes — not representative
 
 ---
 
