@@ -8,6 +8,10 @@
 
 > A production-style end-to-end ecommerce analytics warehouse built on the Brazilian **Olist** public dataset — from raw CSV ingestion through BigQuery, dbt transformations, and a 5-page Looker Studio dashboard.
 
+## 📊 Live Dashboard
+
+**[View the Looker Studio Dashboard →](https://lookerstudio.google.com/reporting/6c0e6662-c340-4099-8f16-236ab5cee1fb)**
+
 ---
 
 ## 📌 Project Overview
