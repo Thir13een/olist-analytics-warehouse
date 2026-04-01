@@ -1,5 +1,3 @@
-[![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
-
 # 🛒 Olist Analytics Warehouse
 
 ![BigQuery](https://img.shields.io/badge/Warehouse-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
@@ -8,6 +6,8 @@
 ![Python](https://img.shields.io/badge/Ingestion-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-0F9D58?style=for-the-badge)
 ![Built in 1 week](https://img.shields.io/badge/Built%20in-1%20week-orange?style=for-the-badge)
+
+**🤝 Built by** &nbsp; [![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
 
 > A production-style end-to-end ecommerce analytics warehouse built on the Brazilian **Olist** public dataset — from raw CSV ingestion through BigQuery, dbt transformations, and a 5-page Looker Studio dashboard.
 
