@@ -8,14 +8,26 @@
 
 > A production-style end-to-end ecommerce analytics warehouse built on the Brazilian **Olist** public dataset — from raw CSV ingestion through BigQuery, dbt transformations, and a 5-page Looker Studio dashboard.
 
-## 👥 Team
+<br/>
 
-| Member | GitHub |
-|---|---|
-| Krish | [@Thir13een](https://github.com/Thir13een) |
-| Shweta | [@shwetabankar54](https://github.com/shwetabankar54) |
+<div align="center">
 
-**Duration:** 1 week
+<h3>🤝 Built By</h3>
+
+<a href="https://github.com/Thir13een">
+  <img src="https://github.com/Thir13een.png" width="70" style="border-radius:50%"/>
+  <br/><sub><b>Krish</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/shwetabankar54">
+  <img src="https://github.com/shwetabankar54.png" width="70" style="border-radius:50%"/>
+  <br/><sub><b>Shweta</b></sub>
+</a>
+
+<br/><br/>
+<sub>⏱️ Built in 1 week</sub>
+
+</div>
 
 ## 📊 Live Dashboard
 
