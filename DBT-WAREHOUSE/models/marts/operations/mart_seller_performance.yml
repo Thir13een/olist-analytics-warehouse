@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: mart_seller_performance
+    columns:
+      - name: seller_id
+        tests: [unique, not_null]
+      - name: order_item_count
+        tests: [not_null]
+      - name: total_sales_value
+        tests: [not_null]

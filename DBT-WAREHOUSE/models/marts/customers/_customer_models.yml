@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: mart_customer_overview
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+      - name: order_count
+        tests: [not_null]
+      - name: lifetime_order_value
+        tests: [not_null]

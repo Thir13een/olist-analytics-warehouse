@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+gcp-key.json
+*.json.key
+*-key.json
+DBT-WAREHOUSE/target/
+DBT-WAREHOUSE/logs/
+__pycache__/
+.claude/
+.codex/
+EXPORTS/raw/
+EXPORTS/dev_staging/
+EXPORTS/dev_intermediate/

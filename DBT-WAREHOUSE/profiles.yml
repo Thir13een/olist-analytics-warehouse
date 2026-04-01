@@ -1,0 +1,12 @@
+olist_warehouse:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: "{{ env_var('DBT_BIGQUERY_PROJECT', 'coral-idiom-451004-i8') }}"
+      dataset: "{{ env_var('DBT_BIGQUERY_DATASET', 'dev') }}"
+      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+      location: "{{ env_var('DBT_BIGQUERY_LOCATION', 'US') }}"
+      threads: "{{ env_var('DBT_BIGQUERY_THREADS', '4') | int }}"
+      timeout_seconds: 300

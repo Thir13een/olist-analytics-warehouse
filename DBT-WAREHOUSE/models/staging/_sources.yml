@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: raw
+    database: coral-idiom-451004-i8
+    schema: raw
+    description: Immutable raw Olist tables loaded from ingestion.
+    tables:
+      - name: raw_customers
+      - name: raw_sellers
+      - name: raw_orders
+      - name: raw_order_items
+      - name: raw_products
+      - name: raw_payments
+      - name: raw_reviews
+      - name: raw_geolocation
+      - name: raw_product_category_translation
